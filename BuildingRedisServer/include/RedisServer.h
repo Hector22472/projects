@@ -5,6 +5,6 @@ class RedisServer{
     public:
         RedisServer(int port);
     private:
-        int port;
+        int port; //port 1
 }
 #end if
