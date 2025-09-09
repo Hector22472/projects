@@ -1,5 +1,6 @@
 #include <iostream>
 #include "../include/RedisServer.h"
+#include <string>
 
 int main(int argc, char* argv[]){
     int port = 6379;
